@@ -1,0 +1,26 @@
+{
+  "name": "team-portfolio-generator",
+  "version": "1.0.0",
+  "description": "team-portfolio-generator",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XFegan/team-portfolio-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XFegan/team-portfolio-generator/issues"
+  },
+  "homepage": "https://github.com/XFegan/team-portfolio-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.1.2"
+  }
+}
